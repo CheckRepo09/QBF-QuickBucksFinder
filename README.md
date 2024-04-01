@@ -24,6 +24,9 @@ Users can contribute to the community by updating the cash status of ATMs. When 
 - **Database:** Google Firebase
 - **Authentication:** Firebase Authentication
 
+## Figma Design Link 
+https://www.figma.com/file/ZI5b2A4in2H90avOiwJzFH/QuickBucks-Finder?type=design&node-id=0%3A1&mode=design&t=g8JR0vJx0ws6dBLt-1
+
 ## Getting Started
 
 1. **Clone the Repository:**
